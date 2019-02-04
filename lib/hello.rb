@@ -1,5 +1,5 @@
-def hello_t(names) {|name| puts name}
-  puts name
+def hello_t(names) #{|name| puts name}
+  puts names
   #name.start_with("T")? puts name
 end
 
